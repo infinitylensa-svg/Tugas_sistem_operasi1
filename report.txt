@@ -1,0 +1,37 @@
+=== Laporan File Sistem ===
+Jumlah file per folder:
+101
+
+Ukuran total tiap folder:
+4.0K	archives
+4.0K	documents
+4.0K	images
+4.0K	logs
+4.0K	organize_files.sh
+4.0K	report.sh
+4.0K	report.txt
+4.0K	search.sh
+
+Total baris dalam semua file teks:
+0 documents/file10.txt
+0 documents/file12.txt
+0 documents/file5.txt
+0 documents/file17.txt
+0 documents/file4.txt
+0 documents/file11.txt
+0 documents/file9.txt
+0 documents/file7.txt
+0 documents/file14.txt
+0 documents/file3.txt
+0 documents/file2.txt
+0 documents/file20.txt
+0 documents/file13.txt
+0 documents/file19.txt
+0 documents/file1.txt
+0 documents/file8.txt
+0 documents/file18.txt
+0 documents/file15.txt
+0 documents/file$.txt
+0 documents/file16.txt
+0 documents/file6.txt
+0 total
